@@ -1,0 +1,3 @@
+[x] Remove landing option from flight. Format the time based on the flight duration for landingtime
+[x] Overweight plane, what to do?
+[] 9.5 hours to 9 hours as 45 minutes
